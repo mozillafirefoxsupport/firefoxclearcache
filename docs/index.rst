@@ -5,7 +5,7 @@ Mozilla Firefox stores temporary files, images, scripts, and other website data 
 
 
 .. image:: https://img.shields.io/badge/Contact%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
-   :width: 200px
+   :width: 250px
    :align: center
    :target: https://getchatsupport.live/
    :alt: Support Button
